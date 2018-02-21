@@ -3,12 +3,13 @@
   <groupId>fi.yle.tools</groupId>
   <artifactId>aws-maven</artifactId>
   <versioning>
-    <release>1.4.5</release>
+    <release>1.4.6</release>
     <versions>
       <version>1.4.3</version>
       <version>1.4.4</version>
       <version>1.4.5</version>
+      <version>1.4.6</version>
     </versions>
-    <lastUpdated>20180221133723</lastUpdated>
+    <lastUpdated>20180221142441</lastUpdated>
   </versioning>
 </metadata>
